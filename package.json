@@ -1,0 +1,15 @@
+{
+  "name": "sample-users-api",
+  "version": "1.0.0",
+  "description": "Sample in-memory REST API in plain Node.js (no dependencies)",
+  "main": "api/server.js",
+  "scripts": {
+    "start": "node api/server.js",
+    "api": "node api/server.js"
+  },
+  "license": "ISC",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=18"
+  }
+}
